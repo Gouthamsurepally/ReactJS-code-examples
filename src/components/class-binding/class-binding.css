@@ -1,0 +1,11 @@
+
+.dark-theme{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+form{
+    border:1px solid gray;
+    padding:10px;
+    border-radius: 20px;
+}
